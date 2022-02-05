@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@SatoshiUy**
 - 👀 I’m interested in **learning something new**
-- 🌱 I’m currently learning **React and Tailwind CSS**
+- 🌱 I’m currently learning **React, Tailwind CSS, SASS/SCSS and little ExpressJS**
 - 📫 How to reach me: Gmail: **lequocuyit@gmail.com**
 
 <!---
