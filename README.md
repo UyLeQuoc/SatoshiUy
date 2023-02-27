@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Le Quoc Uy</h1>
 <h3 align="center">You can call me Uy Le. I want to be a Front-end with experience building responsive and animation web design. Continuously improve web application performance and user experience. I am currently studying and working as a Developer Student Community Club member.</h3>
-
+<div align=center>
+  <a href="https://app.daily.dev/SatoshiUy"><img src="https://api.daily.dev/devcards/19ea3628b9954147bf79cdf15341ea32.png?r=3ya" width="400" alt="Le Quoc Uy's Dev Card"/></a>
+</div>
 - 📫 How to reach me **lequocuyit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -20,6 +22,5 @@
 </div>
 <div align=center>
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UyLeQuoc&theme=dark&mode=weekly&background=1A1B27&sideLabels=38BDAE&dates=38BDAE&sideNums=5F8BD5&currStreakNum=5F8BD5)
-  <a href="https://app.daily.dev/SatoshiUy"><img src="https://api.daily.dev/devcards/19ea3628b9954147bf79cdf15341ea32.png?r=3ya" width="400" alt="Le Quoc Uy's Dev Card"/></a>
 </div>
 
