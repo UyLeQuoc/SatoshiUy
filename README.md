@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, My name Le Quoc Uy</h1>
-===========================
-Full-stack Developer
---------------------
-<h3 align="center">You can call me Uy Le</h3>
+<h3 align="center">Full-stack Developer</h3>
+
 <div align=center>
   <a href="https://app.daily.dev/SatoshiUy"><img src="https://api.daily.dev/devcards/19ea3628b9954147bf79cdf15341ea32.png?r=3ya" width="400" alt="Le Quoc Uy's Dev Card"/></a>
 </div>
